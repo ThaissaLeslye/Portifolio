@@ -6,8 +6,6 @@
 Sou tecnóloga em <strong>Cibersegurança</strong> e atualmente graduanda em <strong>Ciência da Computação</strong> (4º período).
 
 
-Especialista em automação e qualidade, com foco em <strong>Backend (C# .NET)</strong> e estratégias modernas de testes como <strong>Contract Testing</strong> e <strong>TDD/DDD</strong>. </p>
-
 <p align="left"> 💡 Interesses: <strong>Desenvolvimento Full Stack</strong>, <strong>Automação de Testes</strong> e <strong>Arquitetura de Software</strong>. </p>
 
 <p align="left"> 🧠 Tecnologias e Linguagens: <strong>C# (.NET)</strong>, <strong>JavaScript/TypeScript</strong>, <strong>Python</strong>, <strong>SQL (MySQL)</strong>, <strong>Angular</strong>. </p>
@@ -20,6 +18,6 @@ Especialista em automação e qualidade, com foco em <strong>Backend (C# .NET)</
 
 <p align="left"> 🚀 Focada em transicionar para <strong>Desenvolvimento de Software</strong> e construir soluções escaláveis de alto impacto. </p>
 
-<a href="https://www.linkedin.com/in/thaissa-leslye-louren%C3%A7o-8b4b43182/" alt="Linkedin"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/thaissa-leslye-louren%C3%A7o-8b4b43182/](https://www.linkedin.com/in/thaissa-leslye-louren%C3%A7o/)" alt="Linkedin" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
 
-<a href="https://wa.me/5527988018630" alt="WhatsApp"> <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white"/></a>
+<a href="https://wa.me/5527988018630" alt="WhatsApp" target="_blank"> <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white"/></a>
